@@ -14,6 +14,7 @@ in
     thunderbird
     # IM
     telegram-desktop
+    discord
     # Cmdline utitilies
     gh
     httpie
