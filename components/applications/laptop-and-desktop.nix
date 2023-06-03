@@ -27,5 +27,6 @@ in
     ./dev/vscode.nix
     ./dev/android.nix
     ./dev/python.nix
+    ./dev/js.nix
   ];
 }
