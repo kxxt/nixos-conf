@@ -20,6 +20,8 @@ in
     httpie
     difftastic # diff util
     delta # diff util
+    croc # ad-hoc file transfer
+    dogdns # better dig
     # Multimedia
     ffmpeg
     audacity # Audio editor
