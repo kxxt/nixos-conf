@@ -11,5 +11,6 @@ in
     httpie
   ] ++ applications [
     ./dev/vscode.nix
+    ./dev/android.nix
   ];
 }
