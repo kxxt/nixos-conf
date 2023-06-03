@@ -8,5 +8,7 @@
     htop
     dig
     gnupg
+    ripgrep
+    bat
   ];
 }
