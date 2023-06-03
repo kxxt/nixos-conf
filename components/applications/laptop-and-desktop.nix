@@ -8,6 +8,8 @@ in
     firefox
     chromium
     firefox-devedition
+    # Office
+    onlyoffice-bin
     # Email
     thunderbird
     # IM
