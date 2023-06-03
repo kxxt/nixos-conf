@@ -21,8 +21,11 @@ in
     simplescreenrecorder # Screen recording
     peek # Gif Screen recording
     asciinema # Terminal recorder
+    # REPLs
+    cling
   ] ++ applications [
     ./dev/vscode.nix
     ./dev/android.nix
+    ./dev/python.nix
   ];
 }
