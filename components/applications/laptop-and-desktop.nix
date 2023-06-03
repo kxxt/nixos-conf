@@ -17,6 +17,8 @@ in
     # Cmdline utitilies
     gh
     httpie
+    difftastic # diff util
+    delta # diff util
     # Multimedia
     ffmpeg
     audacity # Audio editor
