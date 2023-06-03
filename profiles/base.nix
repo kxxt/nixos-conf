@@ -10,5 +10,6 @@
     gnupg
     ripgrep
     bat
+    lsof
   ];
 }
