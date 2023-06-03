@@ -7,6 +7,8 @@ in
     firefox
     thunderbird
     telegram-desktop
+    gh
+    httpie
   ] ++ applications [
     ./dev/vscode.nix
   ];
