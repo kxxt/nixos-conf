@@ -7,8 +7,15 @@ in
     firefox
     thunderbird
     telegram-desktop
+    # Cmdline utitilies
     gh
     httpie
+    # Multimedia
+    ffmpeg
+    audacity # Audio editor
+    simplescreenrecorder # Screen recording
+    peek # Gif Screen recording
+    asciinema # Terminal recorder
   ] ++ applications [
     ./dev/vscode.nix
     ./dev/android.nix
