@@ -14,6 +14,17 @@
   #   useXkbConfig = true; # use xkbOptions in tty.
   # };
 
+  # Enable sound
+  boot.extraModprobeConfig = ''
+    options snd-hda-intel model=alc285-hp-amp-init
+    options snd slots=snd_soc_skl_hda_dsp,snd-hda-intel
+  '';
+
+
+  environment.systemPackages = with pkgs; [
+    sof-firmware
+  ];
+
   fileSystems = {
     "/".options = [ "compress=zstd" ];
     "/home".options = [ "compress=zstd" ];
