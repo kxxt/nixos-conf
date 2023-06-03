@@ -23,6 +23,8 @@ in
     simplescreenrecorder # Screen recording
     peek # Gif Screen recording
     asciinema # Terminal recorder
+    cmus # Command line music player
+    vlc # Player
     # REPLs
     cling
   ] ++ applications [
