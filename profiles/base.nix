@@ -7,5 +7,6 @@
     curl
     htop
     dig
+    gnupg
   ];
 }
