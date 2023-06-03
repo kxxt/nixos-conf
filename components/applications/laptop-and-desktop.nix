@@ -27,6 +27,10 @@ in
     vlc # Player
     # REPLs
     cling
+    # Screen
+    # TODO: port deskreen to NixOS
+    # Knowledge Management
+    obsidian
   ] ++ applications [
     ./dev/vscode.nix
     ./dev/android.nix
