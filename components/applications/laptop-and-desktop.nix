@@ -4,8 +4,13 @@ let
 in
 {
   packages = with pkgs; [
+    # Browsers
     firefox
+    chromium
+    firefox-devedition
+    # Email
     thunderbird
+    # IM
     telegram-desktop
     # Cmdline utitilies
     gh
