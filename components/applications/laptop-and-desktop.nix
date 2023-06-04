@@ -8,6 +8,7 @@ in
     firefox
     chromium
     firefox-devedition # TODO: make ff & ff-dev coexist
+    tor-browser-bundle-bin
 
     # Office
     onlyoffice-bin
