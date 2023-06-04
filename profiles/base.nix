@@ -18,5 +18,7 @@
     ncdu
     neofetch
     patchelf
+    tmux
+    tree
   ];
 }
