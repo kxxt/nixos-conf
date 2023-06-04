@@ -18,5 +18,6 @@
     plasma-pa
     qtstyleplugin-kvantum
     plasma-thunderbolt
+    sddm-kcm
   ]);
 }
