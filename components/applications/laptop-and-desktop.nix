@@ -8,14 +8,18 @@ in
     firefox
     chromium
     firefox-devedition # TODO: make ff & ff-dev coexist
+
     # Office
     onlyoffice-bin
+
     # Email
     thunderbird
+
     # IM
     telegram-desktop
     discord
     element-desktop
+    
     # Cmdline utitilies
     gh
     httpie
@@ -25,6 +29,7 @@ in
     dogdns # better dig
     gifsicle # GIF utils
     powertop # Analyze power consumption on Intel-based laptops
+
     # Multimedia
     ffmpeg
     audacity # Audio editor
@@ -36,21 +41,29 @@ in
     gimp # Image editor
     inkscape # Vector graphics editor
     obs-studio
+
     # REPLs
     cling
+
     # Screen
     # TODO: port deskreen to NixOS
+
     # Knowledge Management
     obsidian
+
     # E-Book Reader
     # fbreader
     foliate
+
     # (S)FTP
     filezilla
+
     # Sandboxing
     firejail
+
     # Disk Utils
     gparted
+
     # Reverse Engineering
     imhex
 
