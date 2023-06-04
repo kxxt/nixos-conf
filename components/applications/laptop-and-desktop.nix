@@ -34,6 +34,7 @@ in
     vlc # Player
     gimp # Image editor
     inkscape # Vector graphics editor
+    obs-studio
     # REPLs
     cling
     # Screen
