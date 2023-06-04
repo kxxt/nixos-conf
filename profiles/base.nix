@@ -1,7 +1,7 @@
 # The base profile
 { config, pkgs, lib, ... }: {
   environment.systemPackages = with pkgs; [
-    vim
+    neovim
     git
     wget
     curl
