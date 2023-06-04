@@ -59,6 +59,7 @@ in
 
     # Note taking
     rnote
+    xournalpp
     # TODO: typora
 
     # (S)FTP
@@ -92,7 +93,8 @@ in
     # DB
     sqlitebrowser
 
-    # 
+    # Network
+    wireshark
   ] ++ applications [
     ./dev/vscode.nix
     ./dev/android.nix
