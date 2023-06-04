@@ -23,6 +23,7 @@ in
     delta # diff util
     croc # ad-hoc file transfer
     dogdns # better dig
+    gifsicle # GIF utils
     # Multimedia
     ffmpeg
     audacity # Audio editor
@@ -31,6 +32,8 @@ in
     asciinema # Terminal recorder
     cmus # Command line music player
     vlc # Player
+    gimp # Image editor
+    inkscape # Vector graphics editor
     # REPLs
     cling
     # Screen
@@ -39,6 +42,20 @@ in
     obsidian
     # E-Book Reader
     # fbreader
+    foliate
+    # (S)FTP
+    filezilla
+    # Sandboxing
+    firejail
+    # Disk Utils
+    gparted
+    # Reverse Engineering
+    imhex
+    # Android as cam
+    # iriunwebcam-bin
+    # Camera
+    # kamera
+    
   ] ++ applications [
     ./dev/vscode.nix
     ./dev/android.nix
