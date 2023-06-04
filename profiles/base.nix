@@ -14,5 +14,6 @@
     dos2unix
     htmlq
     jq
+    ffmpeg-full
   ];
 }
