@@ -9,4 +9,8 @@
     nvidiaBusId = "PCI:1:0:0";
     reverseSync.enable = true;
   };
+
+  environment.systemPackages = with pkgs; [
+    nvtop
+  ];
 }
