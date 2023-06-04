@@ -12,5 +12,7 @@
     bat
     lsof
     dos2unix
+    htmlq
+    jq
   ];
 }
