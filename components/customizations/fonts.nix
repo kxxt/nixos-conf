@@ -7,5 +7,7 @@
     terminus_font_ttf
     cascadia-code
     sarasa-gothic
+    wqy_zenhei
+    wqy_microhei
   ];
 }
