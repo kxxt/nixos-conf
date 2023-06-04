@@ -96,6 +96,10 @@ in
 
     # Network
     wireshark
+
+    # Yubikey
+    yubikey-manager
+    yubikey-personalization-gui
   ] ++ applications [
     ./dev/vscode.nix
     ./dev/android.nix
