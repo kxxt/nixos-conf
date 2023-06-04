@@ -19,7 +19,7 @@ in
     telegram-desktop
     discord
     element-desktop
-    
+
     # Cmdline utitilies
     gh
     httpie
@@ -54,6 +54,9 @@ in
     # E-Book Reader
     # fbreader
     foliate
+
+    # Note taking
+    rnote
 
     # (S)FTP
     filezilla
