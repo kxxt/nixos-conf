@@ -37,6 +37,8 @@ in
     # TODO: port deskreen to NixOS
     # Knowledge Management
     obsidian
+    # E-Book Reader
+    # fbreader
   ] ++ applications [
     ./dev/vscode.nix
     ./dev/android.nix
