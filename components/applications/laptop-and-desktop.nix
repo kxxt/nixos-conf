@@ -51,11 +51,18 @@ in
     gparted
     # Reverse Engineering
     imhex
+
     # Android as cam
     # iriunwebcam-bin
+
     # Camera
     # kamera
     
+    # PDF Editor
+    masterpdfeditor
+
+    # Math
+    mathematica
   ] ++ applications [
     ./dev/vscode.nix
     ./dev/android.nix
