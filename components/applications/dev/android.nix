@@ -4,5 +4,6 @@
     android-studio
     android-tools
     android-udev-rules
+    scrcpy
   ];
 }
