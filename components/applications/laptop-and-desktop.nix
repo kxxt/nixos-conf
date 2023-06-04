@@ -21,6 +21,9 @@ in
     discord
     element-desktop
 
+    # Meeting
+    zoom-us
+
     # Cmdline utitilies
     gh
     httpie
@@ -32,6 +35,7 @@ in
     powertop # Analyze power consumption on Intel-based laptops
     vbindiff # Binary diff viewer
     yt-dlp
+    zoxide # magic cd
 
     # Multimedia
     ffmpeg
@@ -96,6 +100,7 @@ in
 
     # Network
     wireshark
+    nmap
 
     # Yubikey
     yubikey-manager
