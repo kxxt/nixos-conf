@@ -15,6 +15,7 @@ in
     # IM
     telegram-desktop
     discord
+    element-desktop
     # Cmdline utitilies
     gh
     httpie
