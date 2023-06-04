@@ -98,5 +98,6 @@ in
     ./dev/android.nix
     ./dev/python.nix
     ./dev/js.nix
+    ./dev/vm.nix
   ];
 }
