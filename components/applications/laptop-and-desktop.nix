@@ -81,9 +81,13 @@ in
 
     # Math
     mathematica
+
     # IDEs
     jetbrains.pycharm-community
     racket
+
+    # DB
+    sqlitebrowser
   ] ++ applications [
     ./dev/vscode.nix
     ./dev/android.nix
