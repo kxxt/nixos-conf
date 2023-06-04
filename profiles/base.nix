@@ -16,5 +16,6 @@
     jq
     ffmpeg-full
     ncdu
+    neofetch
   ];
 }
