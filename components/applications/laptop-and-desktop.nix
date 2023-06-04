@@ -24,6 +24,7 @@ in
     croc # ad-hoc file transfer
     dogdns # better dig
     gifsicle # GIF utils
+    powertop # Analyze power consumption on Intel-based laptops
     # Multimedia
     ffmpeg
     audacity # Audio editor
