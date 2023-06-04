@@ -5,5 +5,7 @@
     noto-fonts-cjk-serif
     terminus_font
     terminus_font_ttf
+    cascadia-code
+    sarasa-gothic
   ];
 }
