@@ -20,5 +20,6 @@
     patchelf
     tmux
     tree
+    yq
   ];
 }
