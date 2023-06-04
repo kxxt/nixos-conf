@@ -13,6 +13,7 @@
   programs.dconf.enable = true;
   environment.systemPackages = with pkgs; [
     xclip
+    xsel
   ] ++ (with pkgs.libsForQt5; [
     kdeconnect-kde
     kcolorchooser
