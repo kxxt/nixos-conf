@@ -11,5 +11,6 @@
     ripgrep
     bat
     lsof
+    dos2unix
   ];
 }
