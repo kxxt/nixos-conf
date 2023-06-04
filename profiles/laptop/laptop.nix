@@ -14,6 +14,7 @@ in
     ../../components/display/kde.nix
     ../../components/configuration/local.nix
     ../../components/customizations/keymapping.nix
+    ../../components/customizations/fonts.nix
   ];
   # Applications for laptop.
   users.users.kxxt = userApps;
