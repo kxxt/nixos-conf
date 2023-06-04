@@ -15,5 +15,6 @@
     htmlq
     jq
     ffmpeg-full
+    ncdu
   ];
 }
