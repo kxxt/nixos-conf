@@ -30,6 +30,7 @@ in
     dogdns # better dig
     gifsicle # GIF utils
     powertop # Analyze power consumption on Intel-based laptops
+    vbindiff # Binary diff viewer
 
     # Multimedia
     ffmpeg
@@ -58,6 +59,7 @@ in
 
     # Note taking
     rnote
+    # TODO: typora
 
     # (S)FTP
     filezilla
@@ -89,6 +91,8 @@ in
 
     # DB
     sqlitebrowser
+
+    # 
   ] ++ applications [
     ./dev/vscode.nix
     ./dev/android.nix
