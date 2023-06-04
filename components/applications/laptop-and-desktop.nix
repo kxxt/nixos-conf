@@ -31,6 +31,7 @@ in
     gifsicle # GIF utils
     powertop # Analyze power consumption on Intel-based laptops
     vbindiff # Binary diff viewer
+    yt-dlp
 
     # Multimedia
     ffmpeg
