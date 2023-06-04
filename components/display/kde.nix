@@ -14,5 +14,7 @@
   environment.systemPackages = with pkgs; [
     libsForQt5.kcolorchooser
     plasma-pa
+    libsForQt5.kdeconnect-kde
+    libsForQt5.qtstyleplugin-kvantum
   ];
 }
