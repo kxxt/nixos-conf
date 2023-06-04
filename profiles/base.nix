@@ -17,5 +17,6 @@
     ffmpeg-full
     ncdu
     neofetch
+    patchelf
   ];
 }
