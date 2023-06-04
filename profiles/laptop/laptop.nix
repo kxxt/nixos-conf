@@ -19,6 +19,5 @@ in
   users.users.kxxt = userApps;
   environment.systemPackages = with pkgs; [
     pinentry-qt
-    plasma-pa
   ];
 }
