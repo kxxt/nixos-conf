@@ -65,6 +65,9 @@ in
 
     # Math
     mathematica
+    # IDEs
+    jetbrains.pycharm-community
+    racket
   ] ++ applications [
     ./dev/vscode.nix
     ./dev/android.nix
