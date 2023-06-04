@@ -7,7 +7,7 @@ in
     # Browsers
     firefox
     chromium
-    firefox-devedition
+    firefox-devedition # TODO: make ff & ff-dev coexist
     # Office
     onlyoffice-bin
     # Email
